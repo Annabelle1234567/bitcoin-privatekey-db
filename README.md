@@ -2,8 +2,7 @@
 A database of all Bitcoin private keys
 
 **Note:** This is an open-source clone of directory.io for my personal educational-purpose.
-
-This website contains all the possible Bitcoin private key.
+ebsite contains all the possible Bitcoin private key.
 
 A private key it's just a number chosen randomly from a range,
 if this range (called key-space) is big enough it won't be possible 
@@ -27,3 +26,4 @@ For this reason I have developed this on-demand database and also a Lottery that
 ### Donate
 BTC: 1EhJyJwzbp7v2ixPT4heM2caUsmWcX36mc
 Monero: 47Yk8KgtYyaV2RvzJLQKuuMzhiZD5ktdbNzP6jxsjkdSKD8j81uLRCYXKLFVFtsCbLjbyamGBES58Mi4r8wHEGht8ofEVu7
+[![Run on Repl.it](https://repl.it/badge/github/Annabelle1234567/bitcoin-privatekey-db)](https://repl.it/github/Annabelle1234567/bitcoin-privatekey-db)
